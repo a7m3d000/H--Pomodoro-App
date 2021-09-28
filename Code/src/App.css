@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 60px;
+}
+
+.overlay {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.74);
+  z-index: 1;
+  display: none;
+}
+
+.sittings {
+  position: fixed;
+  height: 100vh;
+  width: 250px;
+  background-color: #dae1ffd8;
+  z-index: 2;
+  list-style: none;
+  padding: 0;
+  padding-top: 70px;
+  left: -250px;
+  transition: 0.5s;
+}
+
+.sittings li {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.sittings li a {
+  font-size: 1.2rem;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #dae1ff;
+  width: 200px;
+  background-color: #1e2140e7;
+  border-radius: 15px;
+  padding: 10px 45px;
+}
+
+.sittings li a:hover {
+  background-color: #f8716f;
+  color: #151932;
+  font-weight: 500;
+}
+
+.close-icon {
+  font-size: 40px;
+  right: 15px;
+  top: 15px;
+  position: absolute;
+}
+
+.close-icon:hover {
+  cursor: pointer;
+  color: #f8716f;
+  font-weight: 500;
+}
