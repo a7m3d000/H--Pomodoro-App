@@ -1,8 +1,8 @@
-## :white_circle: Project Name: **Pomodoro App**
+### :white_circle: Project Name: **Pomodoro App**
 
-## :white_circle: Project Type: **Challenge**
+### :white_circle: Project Type: **Challenge**
 
-## :white_circle: Project Level: **Heigh**
+### :white_circle: Project Level: **Heigh**
 
 
 ## :clipboard: Basic Languages
@@ -12,5 +12,5 @@
 
 
 ## :clipboard: Frameworks
-   :pushpin: Framework
-   :white_check_mark: React
+   :pushpin: Frameworks
+     - [x] React
