@@ -1,4 +1,4 @@
-## :white_circle: Project Name: ``` +diff Pomodoro App ```
+## :white_circle: Project Name: ```diff +Pomodoro App ```
 
 ## :white_circle: Project Type: Challenge
 
