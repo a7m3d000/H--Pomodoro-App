@@ -1,4 +1,4 @@
-## :white_circle: Project Name: ```diff +Pomodoro App ```
+## :white_circle: Project Name: <h1 style="color: red;">Pomodoro App</h1>
 
 ## :white_circle: Project Type: Challenge
 
