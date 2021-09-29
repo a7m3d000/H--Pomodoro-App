@@ -1,4 +1,4 @@
-## Basic Info
+## :clipboard: Basic Info
 
 #### :white_circle: Project Name: **Pomodoro App**
 
