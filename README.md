@@ -1,8 +1,8 @@
-:white_circle: Project Name: 
+## :white_circle: Project Name: 
 
-### :white_circle: Project Type:
+## :white_circle: Project Type:
 
-### :white_circle: Project Level:
+## :white_circle: Project Level:
 
 
 ### :clipboard: Basic Languages
