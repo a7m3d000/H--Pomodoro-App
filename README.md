@@ -1,5 +1,5 @@
 ## :clipboard: Basic Info
-#### :bulb: Project Name: **Pomodoro App**
+#### :bulb: Project Name: [**Pomodoro App**](https://a7m3d000.github.io/H--Pomodoro-App/)
 #### :bulb: Project Type: **Challenge**
 #### :bulb: Project Level: **Heigh**
 
@@ -15,3 +15,4 @@
 ## :clipboard: Frameworks
    :pushpin: Frameworks
      - [x] React
+
