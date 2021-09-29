@@ -1,4 +1,4 @@
-### :white_circle: Project Name: 
+:white_circle: Project Name: 
 
 ### :white_circle: Project Type:
 
