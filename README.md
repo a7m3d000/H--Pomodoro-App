@@ -6,9 +6,9 @@
 
 
 ## :clipboard: Basic Languages
- - :white_check_mark: HTML
- - :white_check_mark: CSS
- - :white_check_mark: JavaScript
+ [x] HTML
+ [x] CSS
+ [x] JavaScript
 
 
 ## :clipboard: Frameworks
