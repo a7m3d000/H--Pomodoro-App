@@ -6,9 +6,9 @@
 
 
 ## :clipboard: Basic Languages
- [x] HTML
- [x] CSS
- [x] JavaScript
+ - [x] HTML
+ - [x] CSS
+ - [x] JavaScript
 
 
 ## :clipboard: Frameworks
