@@ -1,16 +1,16 @@
-# :paperclip: Project Name: 
+## :paperclip: Project Name: 
 
-# :paperclip: Project Type:
+## :paperclip: Project Type:
 
-# :paperclip: Project Level:
-
-
-# :clipboard: Basic Languages
- ## :white_check_mark: HTML
- ## :white_check_mark: CSS
- ## :white_check_mark: JavaScript
+## :paperclip: Project Level:
 
 
-# :clipboard: Frameworks
- ## :pushpin: Framework
-   ### :white_check_mark: React
+## :clipboard: Basic Languages
+ ### :white_check_mark: HTML
+ ### :white_check_mark: CSS
+ ### :white_check_mark: JavaScript
+
+
+## :clipboard: Frameworks
+ ### :pushpin: Framework
+   #### :white_check_mark: React
