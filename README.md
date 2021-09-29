@@ -1,8 +1,8 @@
-### :paperclip: Project Name: 
+### :white_circle: Project Name: 
 
-### :paperclip: Project Type:
+### :white_circle: Project Type:
 
-### :paperclip: Project Level:
+### :white_circle: Project Level:
 
 
 ### :clipboard: Basic Languages
