@@ -1,18 +1,18 @@
-# :clipboard: Basic Info
+## :clipboard: Basic Info
 
-#### :white_circle: Project Name: **Pomodoro App**
+#### :bulb: Project Name: **Pomodoro App**
 
-#### :white_circle: Project Type: **Challenge**
+#### :bulb: Project Type: **Challenge**
 
-#### :white_circle: Project Level: **Heigh**
+#### :bulb: Project Level: **Heigh**
 
 
-# :clipboard: Basic Languages
+## :clipboard: Basic Languages
  - [x] HTML
  - [x] CSS
  - [x] JavaScript
 
 
-# :clipboard: Frameworks
+## :clipboard: Frameworks
    :pushpin: Frameworks
      - [x] React
