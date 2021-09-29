@@ -8,7 +8,8 @@ import { FaCog } from "react-icons/fa";
 const Parent = styled.article`
   .icon {
     font-size: 2rem;
-    margin-top: 200px;
+    margin-top: 150px;
+    margin-bottom: 50px;
     color: #797e9d;
     transition: 0.5s;
 
