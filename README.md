@@ -13,6 +13,6 @@
 ---
 
 ## :clipboard: Frameworks
-  :pushpin: Frameworks
-    - [x] React
+ :pushpin: Frameworks
+   - [x] React
 
