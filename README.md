@@ -3,7 +3,7 @@
    #### :bulb: Project Type: **Challenge** from **Front End Mentor** Website 
    #### :bulb: Project Level: **Heigh** -> **[ H ]**
    
-   #### :bulb: Challenge: [**Pomodoro App**](https://www.frontendmentor.io/challenges/pomodoro-app-KBFnycJ6G)
+   #### :bulb: Challenge URL: [**Pomodoro App**](https://www.frontendmentor.io/challenges/pomodoro-app-KBFnycJ6G)
    
 ---
 
