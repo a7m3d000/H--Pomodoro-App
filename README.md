@@ -40,4 +40,4 @@ This is a [**Pomodoro**](https://pomodoro-app-phi.vercel.app/) web app that you 
 -----
 
 # Web App Screenshot
-![App Screenshot](https://github.com/ahmedmohmd/H--Pomodoro-App/blob/main/app-screenshot.png?raw=true)
+![Pomodoro App]()
