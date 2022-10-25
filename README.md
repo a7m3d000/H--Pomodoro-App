@@ -48,4 +48,4 @@ This is a [**Pomodoro**](https://pomodorotimerapp.vercel.app/) web app that you 
 
 # Web App Screenshot
 
-![Pomodoro App]()
+![Pomodoro Timer App](https://github.com/ahmedmohmd/pomodoro-app/blob/main/app-screenshot.png?raw=true)
